@@ -78,6 +78,7 @@
 		0AB6EEFC19394A88002AF542 /* EchoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EchoTests-Info.plist"; sourceTree = "<group>"; };
 		0AB6EEFE19394A88002AF542 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0AB6EF0019394A88002AF542 /* EchoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EchoTests.m; sourceTree = "<group>"; };
+		54EFFD2522534042AAF6B309 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +178,7 @@
 				0AB6EED019394A88002AF542 /* UIKit.framework */,
 				0AB6EED219394A88002AF542 /* CoreData.framework */,
 				0AB6EEF319394A88002AF542 /* XCTest.framework */,
+				54EFFD2522534042AAF6B309 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
