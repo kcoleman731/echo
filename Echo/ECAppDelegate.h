@@ -14,7 +14,7 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @property (nonatomic, strong) ECParseController *parseController;
-// Testing Travis
+
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;
 
